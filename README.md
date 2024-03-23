@@ -63,7 +63,7 @@ Once you have the game installed, follow these instructions to play:
 #### Homepage
 ![Homepage](static/alien_game_1.png)
 #### Game
-![Game](static/alien_game_2.png)
+![Game](.static/alien_game_2.png)
 
 
 
