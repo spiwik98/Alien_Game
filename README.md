@@ -15,7 +15,7 @@ Welcome to AlienGame! This is a simple arcade-style game written in Python using
 
 
 ## General Information
-The purpose of my project is to provide users with a fun and engaging gaming experience. 👽 AlienGame offers a nostalgic arcade vibe where players can test their reflexes and shooting skills while facing off against alien enemies. I developed this game to offer an enjoyable way for players to spend their leisure time and indulge in some classic gaming action.
+The purpose of my project is to provide users with a fun and engaging gaming experience. 👽 AlienGame offers a nostalgic arcade vibe where players can test their reflexes and shooting skills while facing off against alien enemies. The concept of AlienGame was inspired by the creative insights found in Eric Matthes' book.
 
 
 
