@@ -9,8 +9,8 @@ Welcome to AlienGame! This is a simple arcade-style game written in Python using
 * [Installation](#installation)
 * [How to Play](#how-to-play)
 * [Screenshots](#screenshots)
-* [Contact](#contact)
 * [Author](#author)
+* [Contact](#contact)
 
 
 
