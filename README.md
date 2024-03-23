@@ -61,15 +61,15 @@ Once you have the game installed, follow these instructions to play:
 
 ## Screenshots
 #### Homepage
-![Homepage](.static/alien_game_1.png)
+![Homepage](static/alien_game_1.png)
 #### Game
-![Game](.static/alien_game_2.png)
+![Game](static/alien_game_2.png)
 
 
 
 
 ## Author
-  ## Wiktoria Spicha👾
+### Wiktoria Spicha👾
 
 
 
